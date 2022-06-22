@@ -2,7 +2,7 @@ jupyterlab==2.2.9
 #jupyter-matplotlib==0.7.4
 ipympl==0.5.8
 matplotlib==3.3.1
-numpy==1.19.2
+numpy==1.22.0
 scipy==1.5.3
 numba==0.50.1
 
